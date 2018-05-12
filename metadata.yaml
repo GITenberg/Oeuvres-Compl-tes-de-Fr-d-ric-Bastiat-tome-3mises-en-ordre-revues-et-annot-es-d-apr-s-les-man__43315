@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '37640'
     url: http://www.gutenberg.org/2009/agents/37640
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43315#Oeuvres-Compl-tes-de-Fr-d-ric-Bastiat-tome-3mises-en-ordre-revues-et-annot-es-d-apr-s-les-man_
 gutenberg_bookshelf:
 - FR Sciences et Techniques
 - FR Politique
